@@ -43,7 +43,7 @@ Destroying **3 Smug Javier** elites has a high chance of triggering the **Boss: 
 
 ---
 
-## 🛠️ Technical Overview
+## Technical Overview
 
 *   **Collision System**: Uses `rect.clipline` to detect intersections between the player's slice path and target hitboxes.
 *   **Particle Engine**: Custom `Particle` class using `python_logo.png` with gravity and life-cycle physics.
