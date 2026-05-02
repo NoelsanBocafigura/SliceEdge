@@ -1,10 +1,3 @@
-# SliceEdge
-Slice Edge: Boss Protocol is a fast-paced, arcade-style slicing game built with Pygame. Players use mouse-driven "slice" mechanics to destroy falling targets and lure out a powerful boss.
-
----
-
-# Slice Edge: Boss Protocol
-
 **Slice Edge: Boss Protocol** is a high-energy, arcade-style action game developed in Python using the **Pygame** library. Experience fluid slicing mechanics as you defend against waves of targets and face off against elite bosses in a test of reflexes and precision.
 
 ---
